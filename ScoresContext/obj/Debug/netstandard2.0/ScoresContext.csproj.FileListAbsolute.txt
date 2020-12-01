@@ -1,0 +1,9 @@
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\bin\Debug\netstandard2.0\ScoresContext.deps.json
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\bin\Debug\netstandard2.0\ScoresContext.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\bin\Debug\netstandard2.0\ScoresContext.pdb
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.csprojAssemblyReference.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.AssemblyInfoInputs.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.AssemblyInfo.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.csproj.CoreCompileInputs.cache
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.dll
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresContext\obj\Debug\netstandard2.0\ScoresContext.pdb
