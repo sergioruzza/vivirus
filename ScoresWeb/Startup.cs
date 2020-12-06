@@ -23,6 +23,7 @@ namespace ScoresWeb
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddSession();
 
             string path = "../Database/Scores.db";
             services.AddDbContext<Scores>(options => 
@@ -51,6 +52,9 @@ namespace ScoresWeb
 
             //use html files
             app.UseStaticFiles();
+
+            //Session init
+            app.UseSession();
 
             app.UseEndpoints(endpoints =>
             {

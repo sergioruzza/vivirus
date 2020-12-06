@@ -20,8 +20,6 @@ C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\Score
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\ScoresWeb.TagHelpers.output.cache
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\ScoresWeb.RazorCoreGenerate.cache
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\Razor\Pages\index.cshtml.g.cs
-C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\ScoresWeb.RazorTargetAssemblyInfo.cache
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\ScoresWeb.RazorTargetAssemblyInfo.cs
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\ScoresWeb.Views.pdb
@@ -59,3 +57,7 @@ C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\bin\Debug\netcoreapp3.1\runti
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\bin\Debug\netcoreapp3.1\ScoresContext.dll
 C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\bin\Debug\netcoreapp3.1\ScoresContext.pdb
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\Razor\Pages\menu.cshtml.g.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginLayout.cshtml.g.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_MenuLayout.cshtml.g.cs
+C:\Users\eilopez\Desktop\AnaFinalProject\ScoresWeb\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LogoutLayout.cshtml.g.cs
