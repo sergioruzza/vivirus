@@ -1,5 +1,5 @@
 # Scores System
-
+asdasdasdas
 ## About the Databse
 The database ...(info about the database)
 ... And the intereaction with Entity Framework Core
